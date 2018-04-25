@@ -44,3 +44,13 @@ class LinkedTree {
         }
     }
 }
+
+class Test {
+    public void main(String[] args) {
+        LinkedTree T = new LinkedTree();
+
+
+
+
+    }
+}
